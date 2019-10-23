@@ -1,10 +1,8 @@
 print('hello world')
 
-<<<<<<< HEAD
+sdkfsjfaskfdjsafkjsdfjk
 
 yoyoyoyoyoyoyoyoyo
-
->>>>>>> This is this
 
 sdfasdfsdfsfs
 
